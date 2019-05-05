@@ -1,0 +1,27 @@
+{
+  "name": "kanbanimproved",
+  "version": "1.0.0",
+  "description": "Simple Kanban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPivato/kanbanImproved.git"
+  },
+  "keywords": [
+    "Kanban"
+  ],
+  "author": "MrPivato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrPivato/kanbanImproved/issues"
+  },
+  "homepage": "https://github.com/MrPivato/kanbanImproved#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  }
+}
